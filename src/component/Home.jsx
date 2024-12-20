@@ -15,7 +15,7 @@ function Home() {
     <h1 className="text-2xl font-bold p-2 text-center">Drupal Articles</h1>
     <div className="flex justify-center">
       <button className="bg-gray-500 text-white px-4 py-2 rounded-xl mr-[100px]">
-        <Link to="/create">Create +</Link>
+        <Link to="/create">Create / Update </Link>
       </button>
     </div>
     <section className="parent-section">
